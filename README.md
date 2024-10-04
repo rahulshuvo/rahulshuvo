@@ -15,8 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahulshuvo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulshuvo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahulshuvo&icon=0&color=0)](https://visitcount.itsvg.in)
